@@ -1,0 +1,6 @@
+Bill breakdown 
+coffee:                   ...$210
+cheesecake:               ...$310
+croissant:                ...$250
+sandwich:                 ...$260
+total:                    ...$1030.00
